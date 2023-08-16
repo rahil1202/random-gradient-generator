@@ -8,7 +8,8 @@ Welcome to the "Random Gradient Generator" project! This simple web application 
 
 The generator allows you to click a button to generate a new random gradient, and you can copy the CSS code for the gradient with just a click. It's a handy tool for designers and developers looking to experiment with color schemes.
 
-**Live Demo:** [View Demo](https://your-demo-link.com)
+**Live Demo:** [View Demo](https://codepen.io/rahil1202/full/dywbOJW)
+[CodePen Link](https://codepen.io/rahil1202/pen/dywbOJW)
 
 ## Features 🌟
 
